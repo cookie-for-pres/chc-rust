@@ -2,6 +2,13 @@
 name = "chc"
 version = "0.1.0"
 edition = "2021"
+author = ["cookiedid911"]
+repository = "https://github.com/cookie-for-pres/chc-rust"
+homepage = "https://github.com/cookie-for-pres/chc-rust"
+license = "Apache-2.0"
+keywords = ["web", "http", "https", "client"]
+categories = ["gui", "wasm", "web-programming"]
+readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
