@@ -1,2 +1,8 @@
-/target
-/src/main.rs
+debug/
+target/
+src/main.rs
+
+**/*.rs.bk
+
+*.pdb
+.vscode
