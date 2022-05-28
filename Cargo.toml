@@ -10,6 +10,10 @@ keywords = ["web", "http", "https", "client"]
 categories = ["gui", "wasm", "web-programming"]
 readme = "README.md"
 
+[[bin]]
+name = "chc"
+path = "src/chc.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
