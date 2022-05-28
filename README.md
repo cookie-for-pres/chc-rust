@@ -1,6 +1,6 @@
 # chc-rust
 
-```
+```rust
 use std::net::{TcpListener, TcpStream};
 use std::io::Read;
 use std::thread;
