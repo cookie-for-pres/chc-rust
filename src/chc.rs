@@ -1,6 +1,5 @@
-use crate::response::{grfsc, ResponseType, StatusCode};
 use std::collections::HashMap;
-use std::io::{Read, Write};
+use std::io::Write;
 use std::net::{TcpStream};
 
 pub struct CHC {
